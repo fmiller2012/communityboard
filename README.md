@@ -5,6 +5,7 @@
 - [ ] Create a functional React component
 - [ ] Define and pass props to components
 - [ ] Apply CSS styling to React components
+
 Required Features
 - [ ] Create a unique theme for events or resources relevant to a specific community
 - [ ] Display at least 10 unique resources or events in a responsive card format
