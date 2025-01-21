@@ -3,6 +3,7 @@
 # Web Development Project 1 - *Community Economic Development Hub*
 
 Submitted by: **Faraji Miller**
+
 Z-Number: **Z-23232205**
 
 This web app: **Compiles together a collection of resources in the community responsible for creating sustainable economic development within the local community.**
