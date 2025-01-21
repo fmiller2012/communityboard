@@ -11,9 +11,9 @@ import Grid from './components/Grid.jsx'
 
 function App() {
   return (
-    <div>
+    <div className = "app">
       <Header />
-      
+      <Grid />      
     </div>
   );
 }
