@@ -9,8 +9,8 @@ This web app: **Compiles together a collection of resources in the community res
 Time spent: **10** hours spent in total
 
 🎯 Goals
-- [ ] Initialize a new React application with Vite
-- [ ] Create a functional React component
+- [x] Initialize a new React application with Vite
+- [x] Create a functional React component
 - [ ] Define and pass props to components
 - [ ] Apply CSS styling to React components
 
