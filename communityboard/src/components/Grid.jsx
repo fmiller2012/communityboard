@@ -7,7 +7,16 @@ import ResourceCard from "./ResourceCard.jsx";
 const Grid = function() {
   return (
     <div className = "Grid">
-    
+      <ResourceCard />
+      <ResourceCard />
+      <ResourceCard />
+      <ResourceCard />
+      <ResourceCard />
+      <ResourceCard />
+      <ResourceCard />
+      <ResourceCard />
+      <ResourceCard />
+      <ResourceCard />
     </div>
   );
 };
