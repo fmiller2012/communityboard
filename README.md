@@ -6,7 +6,7 @@ Submitted by: **Faraji Miller**
 
 Z-Number: **Z-23232205**
 
-This web app: **Compiles together a collection of resources in the community responsible for creating sustainable economic development within the local community.**
+This web app: **Compiles together a collection of resources in the community responsible for creating sustainable economic development within the city.**
 
 Time spent: **10** hours spent in total
 
