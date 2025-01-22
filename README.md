@@ -13,27 +13,26 @@ Time spent: **10** hours spent in total
 🎯 Goals
 - [x] Initialize a new React application with Vite
 - [x] Create a functional React component
-- [ ] Define and pass props to components
-- [ ] Apply CSS styling to React components
+- [x] Define and pass props to components
+- [x] Apply CSS styling to React components
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Create a unique theme for events or resources relevant to a specific community
-- [ ] Display at least 10 unique resources or events in a responsive card format
+- [x] Create a unique theme for events or resources relevant to a specific community
+- [x] Display at least 10 unique resources or events in a responsive card format
 
 ## Stretch Features
 
 The following **optional** features are implemented:
 
-- [ ] Add buttons or links to a related resource on each card component
+- [x] Add buttons or links to a related resource on each card component
 - [ ] Make the site responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
-
+* [x] Added clickable cards that will directly link user to resource
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
