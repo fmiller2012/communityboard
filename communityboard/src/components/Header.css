@@ -10,3 +10,10 @@ h2 {
   color: white;
   font-weight: bold;
 }
+
+@media (max-width: 768px) {
+  .header {
+    padding: 10px;
+    font-size: 1.2em;
+  }
+}
