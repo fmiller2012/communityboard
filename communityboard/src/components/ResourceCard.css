@@ -1,0 +1,32 @@
+.textContainer {
+  width: 400px;
+  height: 200px;
+  background-color: white;
+  padding: 10px;
+  margin: 0;
+  text-align: center;
+}
+
+.clickable-text:hover {
+  color: blue
+  text-decoration: underline
+}
+
+.box {
+  margin: 20px;
+}
+
+.textContainer:hover {
+  cursor: pointer;
+}
+
+.thumbnail {
+  width: 400px;
+  height: 300px;
+  margin: 0;
+  display: block;
+}
+
+* {
+  box-sizing: border-box;
+}

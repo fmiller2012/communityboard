@@ -14,6 +14,7 @@ function App() {
     <div className = "app">
       <Header />
       <Grid />      
+      <img src = "/skyline-darkness.png"/>
     </div>
   );
 }
