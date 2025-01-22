@@ -11,10 +11,17 @@ import Grid from './components/Grid.jsx'
 
 function App() {
   return (
-    <div className = "app">
-      <Header />
-      <Grid />      
-      <img src = "/skyline-darkness.png"/>
+    <div id = "root">
+      <div className = "app">
+        <div className = "imageContainer">
+          <img src = "/skyline-darkness.png"/>
+        </div>
+        <Header />
+        <Grid />
+        <div className = "imageContainer">
+          <img src = "/skyline-darkness.png"/>
+        </div>      
+      </div>
     </div>
   );
 }

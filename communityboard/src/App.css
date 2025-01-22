@@ -8,19 +8,33 @@
   background-color: white;
 }
 
+.imageContainer {
+  width: 100%;
+  height: auto;
+  display: block;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.imageContainer img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 
 body {
+  /*
   margin: 0;
   display: flex;
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
- /* background-color: purple;*/
+  background-color: purple;*/
 }
 
 .app {
   background-color: purple;
-  /*background: url("/roku-skyline.jpg");*/
 }
 
 /*

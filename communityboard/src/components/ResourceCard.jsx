@@ -5,10 +5,10 @@ const ResourceCard = (props) => {
     <div className = "ResourceCard">
       <div className = "box">
 	<img src={props.thumbnail} alt={props.card} className="thumbnail" />
-        <div className = "textContainer">
+        <a href={props.link} target="_blank" rel="noopener noreferrer" className = "textContainer">
           <h3>{props.card}</h3>
           <p className = "clickable-text">{props.description}</p>
-        </div>
+        </a>
       </div>
     </div>
   );
